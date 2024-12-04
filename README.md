@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍🎓 I'm Harris. I am a student of a vocational high school, SMKN 2 SINGOSARI. Majoring in Software Engineering<br>📝 I started learning deep coding in 2017 and started consistently in 2021 until now.<br>
+🧑‍🎓 I'm Harris. I am a student of a vocational high school, [SMKN 2 SINGOSARI](https://smkn2-singosari.sch.id/). Majoring in [Software Engineering](https://id.wikipedia.org/wiki/Rekayasa_perangkat_lunak)<br>📝 I started learning deep coding in 2017 and started consistently in 2021 until now.<br>
 
 
 ## 🌐 Socials:
